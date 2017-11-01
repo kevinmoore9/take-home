@@ -1,0 +1,3 @@
+In case you need to install dependencies...
+
+npm install react react-dom babel-core babel-loader babel-preset-react babel-preset-es2015
